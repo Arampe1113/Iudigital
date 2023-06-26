@@ -1,5 +1,4 @@
 # Iudigital
-iu digital tareas 
  Ejercicio 1
 Una función en la mayoría de los casos describe un comportamiento que permite identificar puntos en donde se dé respuesta a un interrogante, estos puntos generalmente son los máximos y mínimos de la función y dan solución a los problemas planteados. La función detallada a continuación describe el comportamiento de un material para su temperatura (eje y) a lo largo del tiempo (eje x):
 
