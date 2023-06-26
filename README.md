@@ -1,5 +1,5 @@
 # Iudigital
- Ejercicio 1
+🔴 Ejercicio 1
 Una función en la mayoría de los casos describe un comportamiento que permite identificar puntos en donde se dé respuesta a un interrogante, estos puntos generalmente son los máximos y mínimos de la función y dan solución a los problemas planteados. La función detallada a continuación describe el comportamiento de un material para su temperatura (eje y) a lo largo del tiempo (eje x):
 
 f(x)=x^4−8x^2+3 
@@ -10,7 +10,7 @@ Para el presente ejercicio se debe crear un ciclo que recorra los valores de x c
 Nota: no se permite el uso de funciones max o min de las Built-in functions o el uso de cualquier librería que tenga los mismos fines. Tampoco se permite encontrar los valores máximos y mínimos usando derivadas o integrales, aunque queda como opción para verificar los resultados obtenidos con los ciclos.
 
 
-<<<<<Ejercicio 3>>>>>
+🔴Ejercicio 3>>>>>
 El juego HuyPues
 Para jugarlo, los participantes se sientan en un círculo. El jugador designado para ir primero dice el número "1", y luego los jugadores siguientes en orden de las manecillas del reloj cuentan hacia arriba por turnos.
 
