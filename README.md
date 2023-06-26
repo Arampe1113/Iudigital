@@ -19,3 +19,12 @@ Sin embargo, cualquier número divisible por tres se reemplaza por la palabra �
 Por ejemplo, una ronda típica de “HuyPues” comenzaría de la siguiente manera: 1, 2, Huy, 4, Pues, Huy, 7, 8, Huy, Pues, 11, Huy, 13, 14, HuyPues, 16, 17, Huy, 19, Pues, Huy,…,n
 
 Realiza un algoritmo que permita, mediante ciclos, realizar el juego “HuyPues” para una cantidad cualquiera n de iteraciones.
+
+
+🔴Ejercicio 4
+
+Al final del bloque completaremos un programa que permita calcular la calificación final de un curso de acuerdo al porcentaje de ponderación y a la calificación obtenida en cada tarea.
+
+En este ejercicio debes solicitar al usuario, con la función input(), la cantidad de tareas que tiene la asignatura, luego solicita las ponderaciones de cada tarea, así como la calificación obtenida y el nombre de cada tarea.
+
+Analiza en qué tipo de arreglo es mas conveniente almacenar la información para calcular la calificación global del curso y presentar un resumen del desempeño del usuario. Recuerda usar bucles para hacer más eficiente el algoritmo.
